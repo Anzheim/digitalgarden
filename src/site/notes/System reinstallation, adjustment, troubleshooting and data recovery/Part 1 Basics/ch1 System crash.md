@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/System reinstallation, adjustment, troubleshooting and data recovery/Part 1 Basics/ch1 System crash/"}
+{"dg-publish":true,"permalink":"/System reinstallation, adjustment, troubleshooting and data recovery/Part 1 Basics/ch1 System crash/","tags":["gardenEntry"]}
 ---
 
 # 1. 當機原因與預防措施
